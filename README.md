@@ -4,6 +4,8 @@
     <img src="https://img.shields.io/badge/Donate-Dhen%20Bhocil-yellow?style=for-the-badge&amp;logo=Saweria" alt="Donate">
   <a href="https://t.me/dhenbhocil" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Dhen%20Bhocil-yellow?style=for-the-badge&amp;logo=Saweria" alt="Telegram">
+  <a href="https://youtube.com/channel/UCMevdvbbnsM0iiQ5G_mC7pA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Dhen%20Bhocil-yellow?style=for-the-badge&amp;logo=Saweria" alt="YouTube">
     <br>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=maschil&theme=buefy">
