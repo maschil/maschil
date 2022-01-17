@@ -1,8 +1,8 @@
 ### Hi there! <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=maschil.visitor-badge">
-<h1 align="center"> ☕ Donation </h1>
 <p align="center">
   <a href="https://saweria.co/dhenbhocil" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Dhen%20Bhocil-yellow?style=for-the-badge&amp;logo=Saweria" alt="Donate">
+    <br>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=maschil&theme=buefy">
     <img src="https://activity-graph.herokuapp.com/graph?username=maschil&theme=react-dark">
