@@ -1,14 +1,9 @@
-<h1 align="center"> ☕ Donation: </h1>
+<h1 align="center"> ☕ Donation </h1>
 <p align="center">
   <a href="https://saweria.co/dhenbhocil" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6m58mX9Fe5ii8oO-kMcSa6drnIVWh1anAw&usqp=CAU" alt="Donate">
   </a>
 </p>
-
-<h1 align="center"> Hi Friend Dhen 👋 </h1>
-<p align="center">Welcome To My GitHub
-</p>
-<h1 align="center"> 📊 Stats: </h1>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
