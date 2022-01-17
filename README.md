@@ -1,6 +1,4 @@
 ### Hi there! <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=maschil.visitor-badge">
-<h1 align="center"> ☕ Donation </h1>
-<p align="center">
 <h1 align="center"> ☕ Donation: </h1>
 <p align="center">
   <a href="https://saweria.co/dhenbhocil" target="_blank">
