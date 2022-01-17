@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=maschil.visitor-badge">
+
 <h1 align="center"> ☕ Donation </h1>
 <p align="center">
   <a href="https://saweria.co/dhenbhocil" target="_blank">
@@ -15,4 +17,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=maschil&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
   </a>
 </p>
-
