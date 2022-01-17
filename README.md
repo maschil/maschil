@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=michyamrane&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=maschil&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michyamrane&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=maschil&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  height="165">
   </a>
 </p>
 
