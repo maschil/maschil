@@ -14,5 +14,7 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=maschil&theme=buefy">
     <img src="https://activity-graph.herokuapp.com/graph?username=maschil&theme=react-dark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maschil&theme=great-gatsby">
   </a>
 </p>
+
