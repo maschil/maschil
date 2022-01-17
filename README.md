@@ -1,5 +1,5 @@
 ### Hi there! <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=maschil.visitor-badge">
-<h1 align="center"> ☕ Donation: </h1>
+<h1 align="center"> ☕ Donation </h1>
 <p align="center">
   <a href="https://saweria.co/dhenbhocil" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Dhen%20Bhocil-yellow?style=for-the-badge&amp;logo=Saweria" alt="Donate">
