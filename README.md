@@ -1,4 +1,15 @@
-<script>
-<!-- code by https://www.html-code-generator.com -->
-document.write(unescape('%3Ch1%20align%3D%22center%22%3E%20%u2615%20Donation%20%3C/h1%3E%0A%3Cp%20align%3D%22center%22%3E%0A%20%20%3Ca%20href%3D%22https%3A//saweria.co/dhenbhocil%22%20target%3D%22_blank%22%3E%0A%20%20%20%20%3Cimg%20src%3D%22https%3A//encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcSi6m58mX9Fe5ii8oO-kMcSa6drnIVWh1anAw%26usqp%3DCAU%22%20alt%3D%22Donate%22%3E%0A%20%20%3C/a%3E%0A%3C/p%3E%0A%0A%3Cbr%3E%0A%3Cbr%3E%0A%3Ch1%20align%3D%22center%22%3E%20%uD83D%uDD25%20Contributions%3A%20%3C/h1%3E%0A%3Cp%20align%3D%22center%22%3E%0A%20%20%3Ca%20href%3D%22https%3A//github.com/DenverCoder1/github-readme-streak-stats%22%3E%0A%20%20%20%20%3Cimg%20src%3D%22https%3A//github-readme-streak-stats.herokuapp.com%3Fuser%3Dmaschil%26theme%3Delegant%26hide_border%3Dtrue%26date_format%3DM%2520j%255B%252C%2520Y%255D%22%3E%0A%20%20%3C/a%3E%0A%3C/p%3E'))
-</script>
+<h1 align="center"> ☕ Donation </h1>
+<p align="center">
+  <a href="https://saweria.co/dhenbhocil" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6m58mX9Fe5ii8oO-kMcSa6drnIVWh1anAw&usqp=CAU" alt="Donate">
+  </a>
+</p>
+
+<br>
+<br>
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=maschil&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  </a>
+</p>
